@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDatabase", "NorthwindDatabase\NorthwindDatabase.csproj", "{991A8450-5186-4C80-88F6-82D2DF7BC3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991A8450-5186-4C80-88F6-82D2DF7BC3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991A8450-5186-4C80-88F6-82D2DF7BC3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991A8450-5186-4C80-88F6-82D2DF7BC3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991A8450-5186-4C80-88F6-82D2DF7BC3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C39C65E-1A9B-47FA-A425-B45343C5CCBB}
+	EndGlobalSection
+EndGlobal
